@@ -27,7 +27,7 @@ const About = () => {
      const navigate = useNavigate(); 
      const [userData, setData] = useState({});
      const [users, setUser] = useState([]);
-     const [user1, setUser1] = useState([]);
+    // const [user1, setUser1] = useState([]);
     
     
    useEffect(() => {
